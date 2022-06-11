@@ -1,2 +1,3 @@
 # bmi-calculator
 A simple BMI calculator
+Work in progress...
